@@ -1,8 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const faket_1 = require("./faket");
-console.log(faket_1.faket.firstName({ lang: "am", prefix: false, gender: "m" }));
-console.log(faket_1.faket.lastName({ lang: "am" }));
-console.log(faket_1.faket.fullName({ prefix: true, lang: "am", ayat: true }));
-exports.default = faket_1.faket;
+exports.faket = void 0;
+const faker_1 = require("./faker");
+// console.log(faker.lastName({ lang: "am" })); //አዲሱ
+// console.log(
+//   faker.fullName({ prefix: true, lang: "am", ayat: true, gender: "f" })
+// ); //ወ/ሪት ዳዊት ኢሳያስ ከፍያለው
+exports.faket = faker_1.faker;
 //# sourceMappingURL=index.js.map

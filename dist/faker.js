@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.faket = void 0;
+exports.faker = void 0;
 const dataset_1 = require("./utils/dataset");
 const utils_1 = require("./utils/utils");
 function fullName({ gender, lang, prefix = false, ayat = false } = {
@@ -38,9 +38,9 @@ function firstName({ gender, lang = "en", prefix = false } = {
 function lastName({ lang = "en" } = { lang: undefined }) {
     return lang === "en" ? (0, utils_1.randomName)(dataset_1.malesEn) : (0, utils_1.randomName)(dataset_1.malesAm);
 }
-exports.faket = {
+exports.faker = {
     firstName,
     lastName,
     fullName,
 };
-//# sourceMappingURL=faket.js.map
+//# sourceMappingURL=faker.js.map
