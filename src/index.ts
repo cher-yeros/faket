@@ -1,14 +1,5 @@
-# faket
-
-Fake Ethiopian Names, Phone Number and Addresses in English and Amharic Letters.
-
-## Usage
-
-npm i @yerosen/faket
-
-## Example
-
-import {faket} from '@yerosen/faket'
+import path from "path";
+import { faket } from "./faket";
 
 console.log(faket.firstName({ lang: "am", prefix: false, gender: "m" }));
 
