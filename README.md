@@ -2,22 +2,23 @@
 
 Fake Ethiopian Names, Phone Number and Addresses in English and Amharic Letters.
 
-## Usage
+## Installation
 
-npm i @yerosen/faket
+```sh
+npm i @muleta/faket
+
+```
 
 ## Example
 
 ```sh
-import {faket} from '@yerosen/faket'
+import { faket } from '@muleta/faket'
 
 ```
 
-```console.log(faket.firstName({ lang: "am", prefix: false, gender: "m" }));
-
-console.log(faket.lastName({ lang: "am" }));
-
-console.log(faket.fullName({ prefix: true, lang: "am", ayat: true }));
-
-
+```typescript
+faket.firstName(); // Absalat
+faket.firstName({ lang: "am", prefix: true, gender: "m" }); // አቶ ተሾመ
+faket.lastName({ lang: "am" }); //አዲሱ
+faket.fullName({ prefix: true, lang: "am", ayat: true, gender: "f" }); //ወ/ሪት ዳዊት ኢሳያስ ከፍያለው
 ```

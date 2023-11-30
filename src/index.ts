@@ -1,10 +1,8 @@
-import path from "path";
-import { faket } from "./faket";
+import { faker } from "./faker";
 
-console.log(faket.firstName({ lang: "am", prefix: false, gender: "m" }));
+// console.log(faker.lastName({ lang: "am" })); //አዲሱ
+// console.log(
+//   faker.fullName({ prefix: true, lang: "am", ayat: true, gender: "f" })
+// ); //ወ/ሪት ዳዊት ኢሳያስ ከፍያለው
 
-console.log(faket.lastName({ lang: "am" }));
-
-console.log(faket.fullName({ prefix: true, lang: "am", ayat: true }));
-
-export default faket;
+export const faket = faker;

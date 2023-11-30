@@ -1,3 +1,4 @@
+import { NameParam } from "./types";
 import {
   femalesAm,
   femalesEn,
@@ -10,13 +11,6 @@ import {
 } from "./utils/dataset";
 
 import { randomName } from "./utils/utils";
-
-interface NameParam {
-  gender?: "m" | "f" | undefined;
-  lang?: "en" | "am" | undefined;
-  prefix?: boolean | undefined;
-  ayat?: boolean | undefined;
-}
 
 function fullName(
   { gender, lang, prefix = false, ayat = false }: NameParam = {
@@ -64,7 +58,7 @@ function lastName(
   return lang === "en" ? randomName(malesEn) : randomName(malesAm);
 }
 
-export const faket = {
+export const faker = {
   firstName,
   lastName,
   fullName,
