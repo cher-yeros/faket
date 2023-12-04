@@ -33,12 +33,12 @@ import { faker } from "./faker";
 // console.log(faker.sefer()); // Eri Bekentu
 // console.log(faker.sefer({ city: "Dire Dawa" })); //Shinile Mek'Abir
 
-console.log(faker.bank());
-console.log(faker.bank({ all: true }));
-console.log(faker.bankName()); // Bunna Bank
-console.log(faker.accountNumber()); // 52746739
-console.log(faker.accountNumber({ digit: 14 })); // 85131705457409
-console.log(faker.paymentMethod({ local: false })); // E-Birr
-console.log(faker.paymentMethod({ all: true }));
+// console.log(faker.bank());
+// console.log(faker.bank({ all: true }));
+// console.log(faker.bankName()); // Bunna Bank
+// console.log(faker.accountNumber()); // 52746739
+// console.log(faker.accountNumber({ digit: 14 })); // 85131705457409
+// console.log(faker.paymentMethod({ local: false })); // E-Birr
+// console.log(faker.paymentMethod({ all: true }));
 
 export const faket = faker;
