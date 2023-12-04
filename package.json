@@ -1,13 +1,25 @@
 {
   "name": "@muleta/faket",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.7",
+  "description": "Ethiopian Random Name Generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cher-yeros/faket.git"
+  },
+  "author": "Yerosen Diriba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cher-yeros/faket/issues"
+  },
+  "homepage": "https://github.com/cher-yeros/faket#readme",
   "main": "dist/index.js",
   "scripts": {
+    "test": "npm run start:dev",
     "start": "node dist/index.js",
     "start:dev": "SET NODE_ENV=development& nodemon --watch 'src/**/*.ts' --exec ts-node-dev src/index.ts",
     "start:prod": "SET NODE_ENV=production& nodemon --watch 'src/**/*.ts' --exec ts-node-dev src/index.ts",
-    "build": "npx rimraf ./dist && tsc && tscp"
+    "build": "npx rimraf ./dist && tsc && tscp",
+    "pkg:publish": "yarn build && npm publish --access public"
   },
   "keywords": [
     "ayat",
@@ -15,8 +27,6 @@
     "gender",
     "lang"
   ],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.10.1",
     "nodemon": "^3.0.1",

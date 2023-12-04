@@ -7,3 +7,9 @@ export function randomName(array: string[]): string {
 
   return array[num];
 }
+
+export function randomzier(array: any[]): any {
+  const num = Math.floor(Math.random() * Math.floor(array.length));
+
+  return array[num];
+}

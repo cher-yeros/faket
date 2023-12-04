@@ -1,4 +1,4 @@
-import { NameParam } from "./types";
+import { NameParam } from "../types";
 import {
   femalesAm,
   femalesEn,
@@ -8,9 +8,9 @@ import {
   malesPrefixEn,
   femalesPrefixAm,
   femalesPrefixEn,
-} from "./utils/dataset";
+} from "../utils/dataset";
 
-import { randomName } from "./utils/utils";
+import { randomName } from "../utils/utils";
 
 function fullName(
   { gender, lang, prefix = false, ayat = false }: NameParam = {
@@ -58,7 +58,7 @@ function lastName(
   return lang === "en" ? randomName(malesEn) : randomName(malesAm);
 }
 
-export const faker = {
+export const person = {
   firstName,
   lastName,
   fullName,
