@@ -1,0 +1,1157 @@
+[
+  { "name_or": "Aagaa", "name_am": "አጋ", "name_en": "Aga", "gender": "m" },
+  {
+    "name_or": "Abboomaa",
+    "name_am": "አቦማ",
+    "name_en": "Aboma",
+    "gender": "m"
+  },
+  {
+    "name_or": "Abdannee",
+    "name_am": "አብደኔ",
+    "name_en": "Abdane",
+    "gender": "m"
+  },
+  {
+    "name_or": "Abdataa",
+    "name_am": "አብደታ",
+    "name_en": "Abdeta",
+    "gender": "m"
+  },
+  { "name_or": "Abdii", "name_am": "አብዲ", "name_en": "Abdi", "gender": "m" },
+  {
+    "name_or": "Abdiisaa",
+    "name_am": "አብዲሳ",
+    "name_en": "Abdisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Addunyaa",
+    "name_am": "አዱኛ",
+    "name_en": "Adugna",
+    "gender": "m"
+  },
+  { "name_or": "Adii", "name_am": "አዲ", "name_en": "Adi", "gender": "f" },
+  {
+    "name_or": "Akkakoo",
+    "name_am": "አከኮ",
+    "name_en": "Akako",
+    "gender": "m"
+  },
+  {
+    "name_or": "Akkasaa",
+    "name_am": "አከሳ",
+    "name_en": "Akasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Akkashee",
+    "name_am": "አከሼ",
+    "name_en": "Akashe",
+    "gender": "f"
+  },
+  {
+    "name_or": "Amantee",
+    "name_am": "አመንቴ",
+    "name_en": "Amante",
+    "gender": "f"
+  },
+  {
+    "name_or": "Amantii",
+    "name_am": "አመንቲ",
+    "name_en": "Amanti",
+    "gender": "m"
+  },
+  {
+    "name_or": "Angaasaa",
+    "name_am": "አንጋሳ",
+    "name_en": "Angasa",
+    "gender": "f"
+  },
+  {
+    "name_or": "Angaatuu",
+    "name_am": "አንጋቱ",
+    "name_en": "Angatu",
+    "gender": "m"
+  },
+  {
+    "name_or": "Araarsaa",
+    "name_am": "አራርሳ",
+    "name_en": "Ararsa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Araarsoo",
+    "name_am": "አራርሶ",
+    "name_en": "Ararso",
+    "gender": "m"
+  },
+  {
+    "name_or": "Ayyaanaa",
+    "name_am": "አያና",
+    "name_en": "Ayyana",
+    "gender": "m"
+  },
+  {
+    "name_or": "Ayyaanoo",
+    "name_am": "አያኖ",
+    "name_en": "Ayyano",
+    "gender": "m"
+  },
+  {
+    "name_or": "Ayyaantuu",
+    "name_am": "አያንቱ",
+    "name_en": "Ayyantu",
+    "gender": "f"
+  },
+  { "name_or": "Baacaa", "name_am": "ባጫ", "name_en": "Bacha", "gender": "m" },
+  {
+    "name_or": "Baaccuu",
+    "name_am": "ባጩ",
+    "name_en": "Bachu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Badhaadhaa",
+    "name_am": "በዳዳ",
+    "name_en": "Bedada",
+    "gender": "m"
+  },
+  {
+    "name_or": "Badhaanee",
+    "name_am": "በዳኔ",
+    "name_en": "Bedane",
+    "gender": "f"
+  },
+  {
+    "name_or": "Badhaasaa",
+    "name_am": "በዳሳ",
+    "name_en": "Bedasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Badhaatuu",
+    "name_am": "በዳቱ",
+    "name_en": "Bedatu",
+    "gender": "f"
+  },
+  { "name_or": "Bantii", "name_am": "በንቲ", "name_en": "Benti", "gender": "m" },
+  {
+    "name_or": "Bareedduu",
+    "name_am": "በሬዱ",
+    "name_en": "Beredu",
+    "gender": "f"
+  },
+  { "name_or": "Barii", "name_am": "በሪ", "name_en": "Beri", "gender": "m" },
+  {
+    "name_or": "Barrisee",
+    "name_am": "በሪሴ",
+    "name_en": "Berise",
+    "gender": "f"
+  },
+  {
+    "name_or": "Barsiisaa",
+    "name_am": "በርሲሳ",
+    "name_en": "Barsisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Bashaadduu",
+    "name_am": "በሻዱ",
+    "name_en": "Beshaddu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bashaanee",
+    "name_am": "በሻኔ",
+    "name_en": "Beshane",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bashaatuu",
+    "name_am": "በሻቱ",
+    "name_en": "Beshatu",
+    "gender": "f"
+  },
+  { "name_or": "Beekaa", "name_am": "ቤካ", "name_en": "Beka", "gender": "m" },
+  {
+    "name_or": "Beekumaa",
+    "name_am": "ቤኩማ",
+    "name_en": "Bekuma",
+    "gender": "m"
+  },
+  {
+    "name_or": "Beenyaa",
+    "name_am": "በኛ",
+    "name_en": "Begna",
+    "gender": "m"
+  },
+  {
+    "name_or": "Biiftuu",
+    "name_am": "ቢፍቱ",
+    "name_en": "Biftu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bilisee",
+    "name_am": "ቢሊሴ",
+    "name_en": "Bilise",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bilisummaa",
+    "name_am": "ቢሊሱማ",
+    "name_en": "Bilisuma",
+    "gender": "f"
+  },
+  {
+    "name_or": "Biqilaa",
+    "name_am": "ቢቂላ",
+    "name_en": "Bikila",
+    "gender": "m"
+  },
+  {
+    "name_or": "Biqiltuu",
+    "name_am": "ቢቂልቱ",
+    "name_en": "Bikiltu",
+    "gender": "f"
+  },
+  { "name_or": "Birraa", "name_am": "ቢራ", "name_en": "Bira", "gender": "m" },
+  {
+    "name_or": "Bohaarsaa",
+    "name_am": "ቦሃርሳ",
+    "name_en": "Boharsa",
+    "gender": "m"
+  },
+  { "name_or": "Boonaa", "name_am": "ቦና", "name_en": "Bona", "gender": "m" },
+  { "name_or": "Boonii", "name_am": "ቦኒ", "name_en": "Boni", "gender": "m" },
+  {
+    "name_or": "Boonsaa",
+    "name_am": "ቦንሳ",
+    "name_en": "Bonsa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Boontuu",
+    "name_am": "ቦንቱ",
+    "name_en": "Bontu",
+    "gender": "f"
+  },
+  { "name_or": "Booraa", "name_am": "ቦራ", "name_en": "Bora", "gender": "m" },
+  {
+    "name_or": "Booranee",
+    "name_am": "ቦረኔ",
+    "name_en": "Borane",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bor-tolti",
+    "name_am": "ቦርቶልቲ",
+    "name_en": "Bortolti",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bulanii",
+    "name_am": "ቡላኒ",
+    "name_en": "Bulani",
+    "gender": "f"
+  },
+  {
+    "name_or": "Bulchaa",
+    "name_am": "ቡልቻ",
+    "name_en": "Bulcha",
+    "gender": "m"
+  },
+  { "name_or": "Bulee", "name_am": "ቡሌ", "name_en": "Bule", "gender": "m" },
+  { "name_or": "Burqaa", "name_am": "ቡርቃ", "name_en": "Burka", "gender": "m" },
+  { "name_or": "Caalaa", "name_am": "ጫላ", "name_en": "Chala", "gender": "m" },
+  {
+    "name_or": "Caaltuu",
+    "name_am": "ጫልቱ",
+    "name_en": "Chaltu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Camadaa",
+    "name_am": "ጨመዳ",
+    "name_en": "Chamada",
+    "gender": "m"
+  },
+  {
+    "name_or": "Daawwitii",
+    "name_am": "ዳዊቲ",
+    "name_en": "Dawiti",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dabalaa",
+    "name_am": "ደበላ",
+    "name_en": "Dabala",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dabalee",
+    "name_am": "ደበሌ",
+    "name_en": "Debale",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dammaqsaa",
+    "name_am": "ደመቅሳ",
+    "name_en": "Damaksa",
+    "gender": "m"
+  },
+  { "name_or": "Dammee", "name_am": "ደሜ", "name_en": "Dame", "gender": "m" },
+  {
+    "name_or": "Dammituu",
+    "name_am": "ደሚቱ",
+    "name_en": "Damitu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Dandanaa",
+    "name_am": "ደንደና",
+    "name_en": "Dandana",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dandeessuu",
+    "name_am": "ደንዴሱ",
+    "name_en": "Dandesu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Dangalaa",
+    "name_am": "ደንገላ",
+    "name_en": "Dangala",
+    "gender": "m"
+  },
+  {
+    "name_or": "Daraaraa",
+    "name_am": "ደራራ",
+    "name_en": "Darara",
+    "gender": "m"
+  },
+  {
+    "name_or": "Daraartuu",
+    "name_am": "ደራርቱ",
+    "name_en": "Darartu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Dhaabaa",
+    "name_am": "ዳባ",
+    "name_en": "Daba",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dhaqqabaa",
+    "name_am": "ደቀባ",
+    "name_en": "Dakaba",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dheeressaa",
+    "name_am": "ዴሬሳ",
+    "name_en": "Deresa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dhugaasaa",
+    "name_am": "ዱጋሳ",
+    "name_en": "Dugasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dibaabaa",
+    "name_am": "ዲባባ",
+    "name_en": "Dibaba",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dibaabee",
+    "name_am": "ዲባቤ",
+    "name_en": "Dibabe",
+    "gender": "f"
+  },
+  { "name_or": "Diimaa", "name_am": "ዲማ", "name_en": "Dima", "gender": "m" },
+  {
+    "name_or": "Diinaol",
+    "name_am": "ዲናኦልድ",
+    "name_en": "Dinaol",
+    "gender": "m"
+  },
+  {
+    "name_or": "Dhugumaa",
+    "name_am": "ዱጉማ",
+    "name_en": "Duguma",
+    "gender": "m"
+  },
+  {
+    "name_or": "Durreettii",
+    "name_am": "ዱሬቲ",
+    "name_en": "Dureti",
+    "gender": "f"
+  },
+  { "name_or": "Duulaa", "name_am": "ዱላ", "name_en": "Dula", "gender": "m" },
+  { "name_or": "Eebbaa", "name_am": "ኤባ", "name_en": "Eba", "gender": "m" },
+  {
+    "name_or": "Eebbisaa",
+    "name_am": "ኤቢሳ",
+    "name_en": "Ebisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Eebbisee",
+    "name_am": "ኤቢሴ",
+    "name_en": "Ebise",
+    "gender": "f"
+  },
+  { "name_or": "Faayaa", "name_am": "ፋያ", "name_en": "Faya", "gender": "f" },
+  {
+    "name_or": "Falmataa",
+    "name_am": "ፈልመታ",
+    "name_en": "Falmata",
+    "gender": "m"
+  },
+  {
+    "name_or": "Fayyisaa",
+    "name_am": "ፈዬሳ",
+    "name_en": "Fayisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Fayyisee",
+    "name_am": "ፈዬሴ",
+    "name_en": "Fayise",
+    "gender": "f"
+  },
+  {
+    "name_or": "Feenaan",
+    "name_am": "ፌናን",
+    "name_en": "Fenan",
+    "gender": "f"
+  },
+  {
+    "name_or": "Feeneet",
+    "name_am": "ፌኔት",
+    "name_en": "Fenet",
+    "gender": "f"
+  },
+  { "name_or": "Feeti", "name_am": "ፌቲ", "name_en": "Feti", "gender": "f" },
+  {
+    "name_or": "Firaa’ol",
+    "name_am": "ፊራኦል",
+    "name_en": "Firaol",
+    "gender": "m"
+  },
+  {
+    "name_or": "Firaanol",
+    "name_am": "ፊራኖል",
+    "name_en": "Firanol",
+    "gender": "m"
+  },
+  {
+    "name_or": "Firoomsaa",
+    "name_am": "ፊሮምሳ",
+    "name_en": "Firomsa",
+    "gender": "m"
+  },
+  { "name_or": "Fufaa", "name_am": "ፉፋ", "name_en": "Fufa", "gender": "m" },
+  {
+    "name_or": "Gaaddisaa",
+    "name_am": "ጋዲሳ",
+    "name_en": "Gadisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gaaddise",
+    "name_am": "ጋዲሴ",
+    "name_en": "Gadise",
+    "gender": "f"
+  },
+  {
+    "name_or": "Gaanfuree",
+    "name_am": "ጉንፉሬ",
+    "name_en": "Ganfure",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gaarummaa",
+    "name_am": "ጋሩማ",
+    "name_en": "Garuma",
+    "gender": "m"
+  },
+  { "name_or": "Gadaa", "name_am": "ገዳ", "name_en": "Gada", "gender": "m" },
+  {
+    "name_or": "Galaanaa",
+    "name_am": "ገላና",
+    "name_en": "Galana",
+    "gender": "m"
+  },
+  {
+    "name_or": "Galataa",
+    "name_am": "ገለታ",
+    "name_en": "Galataa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Galgalee",
+    "name_am": "ገልገሌ",
+    "name_en": "Galgale",
+    "gender": "m"
+  },
+  {
+    "name_or": "Galgaloo",
+    "name_am": "ገልገሎ",
+    "name_en": "Galgalo",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gammachis",
+    "name_am": "ገመቺስ",
+    "name_en": "Gamachis",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gammachuu",
+    "name_am": "ገመቹ",
+    "name_en": "Gamachu",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gammadaa",
+    "name_am": "ገመዳ",
+    "name_en": "Gamada",
+    "gender": "m"
+  },
+  {
+    "name_or": "Gammadee",
+    "name_am": "ገመዴ",
+    "name_en": "Gamade",
+    "gender": "m"
+  },
+  {
+    "name_or": "Ganamee",
+    "name_am": "ገነሜ",
+    "name_en": "Ganame",
+    "gender": "m"
+  },
+  { "name_or": "Garbaa", "name_am": "ገርባ", "name_en": "Garba", "gender": "m" },
+  {
+    "name_or": "Gidaadaa",
+    "name_am": "ጊዳዳ",
+    "name_en": "Gidada",
+    "gender": "m"
+  },
+  {
+    "name_or": "Giiftii",
+    "name_am": "ጊፍቲ",
+    "name_en": "Gifti",
+    "gender": "f"
+  },
+  {
+    "name_or": "Goobanaa",
+    "name_am": "ጎበና",
+    "name_en": "Gobana",
+    "gender": "m"
+  },
+  { "name_or": "Guddaa", "name_am": "ጉዳ", "name_en": "Guda", "gender": "m" },
+  {
+    "name_or": "Guddataa",
+    "name_am": "ጉደታ",
+    "name_en": "Gudata",
+    "gender": "m"
+  },
+  {
+    "name_or": "Guddattuu",
+    "name_am": "ጉደቱ",
+    "name_en": "Gudatu",
+    "gender": "m"
+  },
+  {
+    "name_or": "Guddinaa",
+    "name_am": "ጉዲና",
+    "name_en": "Gudina",
+    "gender": "m"
+  },
+  {
+    "name_or": "Guddisaa",
+    "name_am": "ጉዲሳ",
+    "name_en": "Gudisa",
+    "gender": "m"
+  },
+  { "name_or": "Gumaa", "name_am": "ጉማ", "name_en": "Guma", "gender": "m" },
+  {
+    "name_or": "Gurmeessaa",
+    "name_am": "ጉርሜሳ",
+    "name_en": "Gurmesa",
+    "gender": "m"
+  },
+  { "name_or": "Gurmuu", "name_am": "ጉርሙ", "name_en": "Gurmu", "gender": "m" },
+  { "name_or": "Guutaa", "name_am": "ጉታ", "name_en": "Guuta", "gender": "m" },
+  {
+    "name_or": "Guutamaa",
+    "name_am": "ጉተማ",
+    "name_en": "Gutama",
+    "gender": "m"
+  },
+  { "name_or": "Guutuu", "name_am": "ጉቱ", "name_en": "Gutu", "gender": "m" },
+  {
+    "name_or": "Haawwanii",
+    "name_am": "ሐወኒ",
+    "name_en": "Hawani",
+    "gender": "f"
+  },
+  {
+    "name_or": "Hacaaluu",
+    "name_am": "ሃጫሉ",
+    "name_en": "Hachalu",
+    "gender": "m"
+  },
+  { "name_or": "Hawwii", "name_am": "ሃዊ", "name_en": "Hawii", "gender": "f" },
+  {
+    "name_or": "Hawwinee",
+    "name_am": "ሃዊኔ",
+    "name_en": "Hawine",
+    "gender": "f"
+  },
+  { "name_or": "Hiikaa", "name_am": "ሂካ", "name_en": "Hika", "gender": "m" },
+  { "name_or": "Hirkoo", "name_am": "ሂርኮ", "name_en": "Hirko", "gender": "m" },
+  {
+    "name_or": "Hirphaa",
+    "name_am": "ሂርጳ",
+    "name_en": "Hirpaa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Hordoofaa",
+    "name_am": "ሆርዶፋ",
+    "name_en": "Hordofa",
+    "gender": "m"
+  },
+  { "name_or": "Hundee", "name_am": "ሁንዴ", "name_en": "Hunde", "gender": "m" },
+  {
+    "name_or": "Hundeessaa",
+    "name_am": "ሁንዴሳ",
+    "name_en": "Hundesa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Hundumaa",
+    "name_am": "ሁንዱማ",
+    "name_en": "Hunduma",
+    "gender": "m"
+  },
+  { "name_or": "Ibsaa", "name_am": "ኢብሳ", "name_en": "Ibsa", "gender": "m" },
+  {
+    "name_or": "Ibsituu",
+    "name_am": "ኢብሲቱ",
+    "name_en": "Ibsitu",
+    "gender": "f"
+  },
+  {
+    "name_or": "Iddoosaa",
+    "name_am": "ኢዶሳ",
+    "name_en": "Idosa",
+    "gender": "m"
+  },
+  { "name_or": "Ifaa", "name_am": "ኢፋ", "name_en": "Ifa", "gender": "m" },
+  { "name_or": "Iftuu", "name_am": "ኢፍቱ", "name_en": "Iftu", "gender": "f" },
+  {
+    "name_or": "Ittaanaa",
+    "name_am": "ኢታና",
+    "name_en": "Etana",
+    "gender": "m"
+  },
+  {
+    "name_or": "Jaagamaa",
+    "name_am": "ጃገማ",
+    "name_en": "Jagama",
+    "gender": "m"
+  },
+  {
+    "name_or": "Jaalallee",
+    "name_am": "ጃለሌ",
+    "name_en": "Jalale",
+    "gender": "m"
+  },
+  {
+    "name_or": "Jaalannee",
+    "name_am": "ጃለኔ",
+    "name_en": "Jalane",
+    "gender": "f"
+  },
+  {
+    "name_or": "Jaamboo",
+    "name_am": "ጃምቦ",
+    "name_en": "Jambo",
+    "gender": "m"
+  },
+  {
+    "name_or": "Jabeessaa",
+    "name_am": "ጀቤሳ",
+    "name_en": "Jabesa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Jajanii",
+    "name_am": "ጃጃኒ",
+    "name_en": "Jajani",
+    "gender": "f"
+  },
+  { "name_or": "Jifaar", "name_am": "ጂፋር", "name_en": "Jifar", "gender": "m" },
+  { "name_or": "Jigsaa", "name_am": "ጂግሳ", "name_en": "Jigsa", "gender": "m" },
+  { "name_or": "Jiituu", "name_am": "ጂቱ", "name_en": "Jitu", "gender": "f" },
+  { "name_or": "Jootee", "name_am": "ጆቴ", "name_en": "Jote", "gender": "m" },
+  {
+    "name_or": "Kennasaa",
+    "name_am": "ኬነሳ",
+    "name_en": "Kenesa",
+    "gender": "m"
+  },
+  { "name_or": "Keebeek", "name_am": "ኬቤክ", "name_en": "Kebek", "gender": "f" },
+  {
+    "name_or": "Keelloo",
+    "name_am": "ኬሎ",
+    "name_en": "Kelo",
+    "gender": "m"
+  },
+  { "name_or": "Kennaa", "name_am": "ኬና", "name_en": "Kena", "gender": "m" },
+  { "name_or": "Kiyyaa", "name_am": "ኪያ", "name_en": "Kiya", "gender": "m" },
+  { "name_or": "Kookeet", "name_am": "ኮኬት", "name_en": "Koket", "gender": "f" },
+  { "name_or": "Kumaa", "name_am": "ኩማ", "name_en": "Kuma", "gender": "m" },
+  {
+    "name_or": "Kumashii",
+    "name_am": "ኩመሺ",
+    "name_en": "Kumashi",
+    "gender": "f"
+  },
+  { "name_or": "Kumee", "name_am": "ኩሜ", "name_en": "Kume", "gender": "f" },
+  {
+    "name_or": "Kummarraa",
+    "name_am": "ኩመራ",
+    "name_en": "Kumara",
+    "gender": "m"
+  },
+  { "name_or": "Kumsaa", "name_am": "ኩምሳ", "name_en": "Kumsa", "gender": "m" },
+  {
+    "name_or": "Kuulanii",
+    "name_am": "ኩለኒ",
+    "name_en": "Kulani",
+    "gender": "f"
+  },
+  { "name_or": "Laalii", "name_am": "ላሊ", "name_en": "Lali", "gender": "f" },
+  {
+    "name_or": "Laateeraa",
+    "name_am": "ላቴራ",
+    "name_en": "Latera",
+    "gender": "m"
+  },
+  {
+    "name_or": "Lammeesaa",
+    "name_am": "ለሜሳ",
+    "name_en": "Lamesa",
+    "gender": "m"
+  },
+  { "name_or": "Lammii", "name_am": "ለሚ", "name_en": "Lami", "gender": "m" },
+  {
+    "name_or": "Leellisaa",
+    "name_am": "ሌሊሳ",
+    "name_en": "Lelisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Leelloo",
+    "name_am": "ሌሎ",
+    "name_en": "Lelo",
+    "gender": "m"
+  },
+  {
+    "name_or": "Leencoo",
+    "name_am": "ሌንጮ",
+    "name_en": "Lencho",
+    "gender": "m"
+  },
+  {
+    "name_or": "Leensaa",
+    "name_am": "ሌንሳ",
+    "name_en": "Lensa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Leensee",
+    "name_am": "ሌንሴ",
+    "name_en": "Lense",
+    "gender": "f"
+  },
+  { "name_or": "Liiban", "name_am": "ሊበን", "name_en": "Liban", "gender": "m" },
+  { "name_or": "Lookoo", "name_am": "ሎኮ", "name_en": "Loko", "gender": "f" },
+  {
+    "name_or": "Magarsaa",
+    "name_am": "መገርሳ",
+    "name_en": "Magarsa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Magartuu",
+    "name_am": "መገርቱ",
+    "name_en": "Magartu",
+    "gender": "m"
+  },
+  { "name_or": "Malkaa", "name_am": "መልካ", "name_en": "Malka", "gender": "m" },
+  {
+    "name_or": "Maraa’ol",
+    "name_am": "መራኦል",
+    "name_en": "Mara’ol",
+    "gender": "m"
+  },
+  {
+    "name_or": "Mararaa",
+    "name_am": "መረራ",
+    "name_en": "Marara",
+    "gender": "m"
+  },
+  {
+    "name_or": "Marartuu",
+    "name_am": "መረርቱ",
+    "name_en": "Marartu",
+    "gender": "f"
+  },
+  { "name_or": "Margaa", "name_am": "መርጋ", "name_en": "Marga", "gender": "m" },
+  { "name_or": "Meetii", "name_am": "ሜቲ", "name_en": "Meti", "gender": "f" },
+  {
+    "name_or": "Midhagsaa",
+    "name_am": "ሚደግሳ",
+    "name_en": "Midagsa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Milkeessaa",
+    "name_am": "ሚልኬሳ",
+    "name_en": "Milkesa",
+    "gender": "m"
+  },
+  { "name_or": "Milkii", "name_am": "ሚልኪ", "name_en": "Milki", "gender": "m" },
+  {
+    "name_or": "Milkisaa",
+    "name_am": "ሚልኪሳ",
+    "name_en": "Milkisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Mo’iiboon",
+    "name_am": "ሞኢቦን",
+    "name_en": "Moibon",
+    "gender": "m"
+  },
+  {
+    "name_or": "Moosisaa",
+    "name_am": "ሞሲሳ",
+    "name_en": "Mosisa",
+    "gender": "m"
+  },
+  { "name_or": "Mootii", "name_am": "ሞቲ", "name_en": "Moti", "gender": "m" },
+  {
+    "name_or": "Mootummaa",
+    "name_am": "ሞቱማ",
+    "name_en": "Motuma",
+    "gender": "m"
+  },
+  {
+    "name_or": "Murteessaa",
+    "name_am": "ሙርቴሳ",
+    "name_en": "Murtesa",
+    "gender": "m"
+  },
+  { "name_or": "Naa’ol", "name_am": "ናኦል", "name_en": "Naol", "gender": "m" },
+  {
+    "name_or": "Naabeekii",
+    "name_am": "ናቤኪ",
+    "name_en": "Nabeki",
+    "gender": "f"
+  },
+  {
+    "name_or": "Naafiraa",
+    "name_am": "ናፊራ",
+    "name_en": "Nafira",
+    "gender": "m"
+  },
+  {
+    "name_or": "Naafyaad",
+    "name_am": "ናያድ",
+    "name_en": "Nafyad",
+    "gender": "m"
+  },
+  {
+    "name_or": "Naanaati",
+    "name_am": "ናናቲ",
+    "name_en": "Nanati",
+    "gender": "f"
+  },
+  {
+    "name_or": "Naataanaan",
+    "name_am": "ናታናን",
+    "name_en": "Natanan",
+    "gender": "m"
+  },
+  { "name_or": "Nadhii", "name_am": "ነዲ", "name_en": "Nadi", "gender": "fm" },
+  {
+    "name_or": "Nagaasaa",
+    "name_am": "ነጋሳ",
+    "name_en": "Nagasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Nagarii",
+    "name_am": "ነገሪ",
+    "name_en": "Nagari",
+    "gender": "m"
+  },
+  {
+    "name_or": "Nagawoo",
+    "name_am": "ነገዎ",
+    "name_en": "Nagawo",
+    "gender": "m"
+  },
+  {
+    "name_or": "Nammarraa",
+    "name_am": "ነመራ",
+    "name_en": "Namara",
+    "gender": "m"
+  },
+  {
+    "name_or": "Niimoonaa",
+    "name_am": "ኒሞና",
+    "name_en": "Nimona",
+    "gender": "m"
+  },
+  { "name_or": "Obsaa", "name_am": "ኦብሳ", "name_en": "Obsa", "gender": "m" },
+  { "name_or": "Obsee", "name_am": "ኦብሴ", "name_en": "Obse", "gender": "f" },
+  {
+    "name_or": "Olaanaa",
+    "name_am": "ኦላና",
+    "name_en": "Olana",
+    "gender": "m"
+  },
+  {
+    "name_or": "Oljirraa",
+    "name_am": "ኦልጂራ",
+    "name_en": "Oljira",
+    "gender": "m"
+  },
+  {
+    "name_or": "Olyaad",
+    "name_am": "ኦሊያድ",
+    "name_en": "Olyad",
+    "gender": "m"
+  },
+  {
+    "name_or": "Qananii",
+    "name_am": "ቀነኒ",
+    "name_en": "Keneni",
+    "gender": "f"
+  },
+  {
+    "name_or": "Qananiisaa",
+    "name_am": "ቀነኒሳ",
+    "name_en": "Kenenisa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Qeeransoo",
+    "name_am": "ቄረንሶ",
+    "name_en": "Keranso",
+    "gender": "m"
+  },
+  { "name_or": "Quufaa", "name_am": "ቁፋ", "name_en": "Kufa", "gender": "m" },
+  {
+    "name_or": "Rabbirraa",
+    "name_am": "ረቢራ",
+    "name_en": "Rabira",
+    "gender": "m"
+  },
+  { "name_or": "Roobaa", "name_am": "ሮባ", "name_en": "Roba", "gender": "m" },
+  {
+    "name_or": "Roobalee",
+    "name_am": "ሮበሌ",
+    "name_en": "Robale",
+    "gender": "m"
+  },
+  {
+    "name_or": "Roobeeraa",
+    "name_am": "ሮቤራ",
+    "name_en": "Robera",
+    "gender": "m"
+  },
+  {
+    "name_or": "Roobsan",
+    "name_am": "ሮብሰን",
+    "name_en": "Robsan",
+    "gender": "m"
+  },
+  {
+    "name_or": "Sabboonaa",
+    "name_am": "ሰቦና",
+    "name_en": "Sabona",
+    "gender": "m"
+  },
+  {
+    "name_or": "Sanbatoo",
+    "name_am": "ሰንበቶ",
+    "name_en": "Sanbato",
+    "gender": "m"
+  },
+  { "name_or": "Sanyii", "name_am": "ሰኚ", "name_en": "Sagni", "gender": "m" },
+  {
+    "name_or": "Sarbeessaa",
+    "name_am": "ሰርቤሳ",
+    "name_en": "Sarbesa",
+    "gender": "m"
+  },
+  { "name_or": "Seenaa", "name_am": "ሴና", "name_en": "Sena", "gender": "f" },
+  { "name_or": "Shuree", "name_am": "ሹሬ", "name_en": "Shure", "gender": "f" },
+  { "name_or": "Siifan", "name_am": "ሲፈን", "name_en": "Sifan", "gender": "f" },
+  {
+    "name_or": "Siitinaa",
+    "name_am": "ሲቲና",
+    "name_en": "Sitina",
+    "gender": "m"
+  },
+  { "name_or": "Simboo", "name_am": "ሲምቦ", "name_en": "Simbo", "gender": "f" },
+  {
+    "name_or": "Soolanee",
+    "name_am": "ሶለኔ",
+    "name_en": "Solane",
+    "gender": "f"
+  },
+  {
+    "name_or": "Soorettii",
+    "name_am": "ሶሬቲ",
+    "name_en": "Soreti",
+    "gender": "f"
+  },
+  {
+    "name_or": "Taanaan",
+    "name_am": "ታናን",
+    "name_en": "Tanan",
+    "gender": "f"
+  },
+  {
+    "name_or": "Taliilaa",
+    "name_am": "ተሌላ",
+    "name_en": "Talila",
+    "gender": "m"
+  },
+  {
+    "name_or": "Taliilee",
+    "name_am": "ተሊሌ",
+    "name_en": "Talile",
+    "gender": "f"
+  },
+  {
+    "name_or": "Tokkummaa",
+    "name_am": "ቶኩማ",
+    "name_en": "Tokumaa",
+    "gender": "m"
+  },
+  { "name_or": "Tolaa", "name_am": "ቶላ", "name_en": "Tola", "gender": "m" },
+  {
+    "name_or": "Tolasaa",
+    "name_am": "ቶለሳ",
+    "name_en": "Tolasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Toleeraa",
+    "name_am": "ቶሌራ",
+    "name_en": "Tolera",
+    "gender": "m"
+  },
+  { "name_or": "Toltuu", "name_am": "ቶልቱ", "name_en": "Toltu", "gender": "f" },
+  { "name_or": "Tufaa", "name_am": "ቱፋ", "name_en": "Tufa", "gender": "m" },
+  { "name_or": "Tulluu", "name_am": "ቱሉ", "name_en": "Tulu", "gender": "m" },
+  { "name_or": "Tumsaa", "name_am": "ቱምሳ", "name_en": "Tumsa", "gender": "m" },
+  { "name_or": "Turaa", "name_am": "ቱራ", "name_en": "Tura", "gender": "m" },
+  {
+    "name_or": "Tuulamaa",
+    "name_am": "ቱለማ",
+    "name_en": "Tulama",
+    "gender": "m"
+  },
+  {
+    "name_or": "Urgeessaa",
+    "name_am": "ኡርጌሳ",
+    "name_en": "Urgesa",
+    "gender": "m"
+  },
+  { "name_or": "Urjii", "name_am": "ኡርጂ", "name_en": "Urji", "gender": "f" },
+  {
+    "name_or": "Waaqasaa",
+    "name_am": "ዋቀሳ",
+    "name_en": "Wakasa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Waaqgaarii",
+    "name_am": "ዋቅጋሪ",
+    "name_en": "Wakgari",
+    "gender": "m"
+  },
+  {
+    "name_or": "Waaqjiraa",
+    "name_am": "ዋቅጂራ",
+    "name_en": "Wakjira",
+    "gender": "m"
+  },
+  {
+    "name_or": "Waaqtolee",
+    "name_am": "ዋቅቶሌ",
+    "name_en": "Waktole",
+    "gender": "m"
+  },
+  {
+    "name_or": "Waaqwayyaa",
+    "name_am": "ዋቅወያ",
+    "name_en": "Wakwayaa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Walalii",
+    "name_am": "ወላሊ",
+    "name_en": "Walali",
+    "gender": "f"
+  },
+  { "name_or": "Warqee", "name_am": "ወርቄ", "name_en": "Warke", "gender": "f" },
+  {
+    "name_or": "Wayyeessaa",
+    "name_am": "ወዬሳ",
+    "name_en": "Wayesa",
+    "gender": "m"
+  },
+  { "name_or": "Xaafaa", "name_am": "ጣፋ", "name_en": "Tafa", "gender": "m" },
+  {
+    "name_or": "Yaadanii",
+    "name_am": "ያደኒ",
+    "name_en": "Yadani",
+    "gender": "f"
+  },
+  {
+    "name_or": "Yaadataa",
+    "name_am": "ያደታ",
+    "name_en": "Yadata",
+    "gender": "m"
+  },
+  {
+    "name_or": "Yaadessaa",
+    "name_am": "ያዴሳ",
+    "name_en": "Yadesa",
+    "gender": "m"
+  },
+  {
+    "name_or": "Yerosan",
+    "name_am": "የሮሰን",
+    "name_en": "Yerosen",
+    "gender": "m"
+  }
+]

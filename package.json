@@ -1,6 +1,6 @@
 {
   "name": "@muleta/faket",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Ethiopian Random Name Generator",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "npm run start:dev",
     "start": "node dist/index.js",
-    "start:dev": "SET NODE_ENV=development& nodemon --watch 'src/**/*.ts' --exec ts-node-dev src/index.ts",
+    "start:dev": "nodemon src/index.ts",
     "start:prod": "SET NODE_ENV=production& nodemon --watch 'src/**/*.ts' --exec ts-node-dev src/index.ts",
     "build": "npx rimraf ./dist && tsc && tscp",
     "pkg:publish": "yarn build && npm publish --access public"

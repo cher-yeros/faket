@@ -41,4 +41,17 @@ import { faker } from "./faker";
 // console.log(faker.paymentMethod({ local: false })); // E-Birr
 // console.log(faker.paymentMethod({ all: true }));
 
+// console.log(
+//   faker.firstName({ oromifa: true, prefix: true, lang: "or", gender: "m" })
+// );
+// console.log(
+//   faker.firstName({ oromifa: true, prefix: false, lang: "en", gender: "f" })
+// );
+// console.log(
+//   faker.fullName({ oromifa: true, prefix: true, lang: "am", gender: "f" })
+// );
+// console.log(
+//   faker.fullName({ oromifa: true, prefix: false, lang: "or", gender: "f" })
+// );
+
 export const faket = faker;

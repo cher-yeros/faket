@@ -1,8 +1,9 @@
 export interface NameParam {
   gender?: "m" | "f" | undefined;
-  lang?: "en" | "am" | undefined;
+  lang?: "en" | "am" | "or" | undefined;
   prefix?: boolean | undefined;
   ayat?: boolean | undefined;
+  oromifa?: boolean | undefined;
 }
 
 export interface Company {

@@ -1478,6 +1478,7 @@ export const malesEn: string[] = [
   "Zeru",
   "Zewedu",
 ];
+
 export const femalesEn = [
   "Amaresh",
   "Alayet",
