@@ -54,4 +54,8 @@ import { faker } from "./faker";
 //   faker.fullName({ oromifa: true, prefix: false, lang: "or", gender: "f" })
 // );
 
+// console.log(faker.firstName({ oromifa: true, lang: "am" }));
+// console.log(faker.maqaa({ oromifa: true, gender: "f" }));
+
+// console.log({ fN, lN });
 export const faket = faker;

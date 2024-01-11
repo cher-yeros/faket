@@ -50,5 +50,8 @@ const faker_1 = require("./faker");
 // console.log(
 //   faker.fullName({ oromifa: true, prefix: false, lang: "or", gender: "f" })
 // );
+// let fN = faker.firstName({ oromifa: true, lang: "am" });
+// let lN = faker.maqaa({ oromifa: true, gender: "f" });
+// console.log({ fN, lN });
 exports.faket = faker_1.faker;
 //# sourceMappingURL=index.js.map

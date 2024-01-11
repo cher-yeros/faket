@@ -25,6 +25,11 @@ export declare const faket: {
         lang?: string | undefined;
     }) => string;
     fullName: ({ gender, lang, prefix, ayat, oromifa }?: import("./types").NameParam) => string;
+    maqaa: ({ gender, lang, prefix, oromifa }?: import("./types").NameParam) => {
+        name_or: string;
+        name_am: string;
+        name_en: string;
+    };
     company: {
         name: () => string;
         website: () => string;

@@ -81,3 +81,23 @@ console.log(faket.accountNumber({ digit: 14 })); // 85131705457409
 console.log(faket.paymentMethod({ local: false })); // E-Birr
 console.log(faket.paymentMethod({ all: true }));
 ```
+
+### Afaan Oromoo Full Name
+
+```typescript
+console.log(
+  faket.firstName({ oromifa: true, prefix: true, lang: "or", gender: "m" })
+);
+console.log(
+  faket.firstName({ oromifa: true, prefix: false, lang: "en", gender: "f" })
+);
+console.log(
+  faket.fullName({ oromifa: true, prefix: true, lang: "am", gender: "f" })
+);
+console.log(
+  faket.fullName({ oromifa: true, prefix: false, lang: "or", gender: "f" })
+);
+
+console.log(faket.firstName({ oromifa: true, lang: "am" }));
+console.log(faket.maqaa({ oromifa: true, gender: "f" }));
+```

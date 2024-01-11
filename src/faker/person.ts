@@ -40,10 +40,10 @@ function firstName(
 
       const __or_prefix = randomzier(
         oromifa_prefix.filter((pr) => pr.gender === _or_name.gender)
-      );
-      const __or = __or_prefix.name_or;
-      const __am = __or_prefix.name_am;
-      const __en = __or_prefix.name_en;
+      ) as { name_or: string; name_am: string; name_en: string };
+      const __or = __or_prefix?.name_or;
+      const __am = __or_prefix?.name_am;
+      const __en = __or_prefix?.name_en;
 
       return (
         (prefix
@@ -113,8 +113,53 @@ function lastName(
   return lang === "en" ? randomName(malesEn) : randomName(malesAm);
 }
 
+function maqaa(
+  { gender, lang = "en", prefix = false, oromifa = false }: NameParam = {
+    gender: undefined,
+    lang: undefined,
+  }
+): { name_or: string; name_am: string; name_en: string } {
+  if (!gender) {
+    if (oromifa) {
+      const { name_or, name_am, name_en } = randomzier(oromiffa_names);
+
+      // const __or_prefix = randomzier(
+      //   oromifa_prefix.filter((pr) => pr.gender === _or_name.gender)
+      // ) as { name_or: string; name_am: string; name_en: string };
+
+      return { name_or, name_am, name_en };
+    }
+  }
+
+  if (oromifa) {
+    const { name_or, name_am, name_en } = randomzier(
+      oromiffa_names.filter((name) => name.gender === gender)
+    );
+
+    // const __or_prefix = randomzier(
+    //   oromifa_prefix.filter((pr) => pr.gender === _or_name.gender)
+    // );
+
+    return { name_or, name_am, name_en };
+  }
+
+  const { name_or, name_am, name_en } = randomzier(oromiffa_names);
+  return { name_or, name_am, name_en };
+  // if (gender === "m") {
+  //   return lang === "en"
+  //     ? (prefix ? randomName(malesPrefixEn) + " " : "") + randomName(malesEn)
+  //     : (prefix ? randomName(malesPrefixAm) + " " : "") + randomName(malesAm);
+  // } else {
+  //   return lang === "en"
+  //     ? (prefix ? randomName(femalesPrefixEn) + " " : "") +
+  //         randomName(femalesEn)
+  //     : (prefix ? randomName(femalesPrefixAm) + " " : "") +
+  //         randomName(femalesAm);
+  // }
+}
 export const person = {
   firstName,
   lastName,
   fullName,
+  maqaa,
 };
